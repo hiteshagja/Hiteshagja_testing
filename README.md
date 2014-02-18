@@ -1,8 +1,8 @@
-# Welcome to SlickGrid
+﻿# Welcome to AxiomGrid
 
-Find documentation and examples in [the wiki](https://github.com/mleibman/SlickGrid/wiki).
+Find documentation and examples in [the wiki](https://github.com/mleibman/AxiomGrid/wiki).
 
-## SlickGrid is an advanced JavaScript grid/spreadsheet component
+## AxiomGrid is an advanced JavaScript grid/spreadsheet component
 
 Some highlights:
 
