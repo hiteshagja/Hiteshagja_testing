@@ -1,22 +1,37 @@
-﻿# Welcome to AxiomGrid
+﻿# AxiomGrid
 
-Find documentation and examples in [the wiki](https://github.com/mleibman/AxiomGrid/wiki).
+## AxiomGrid is jquery based excel like spreadsheet component.
 
-## AxiomGrid is an advanced JavaScript grid/spreadsheet component
+###Features:
 
-Some highlights:
+* Virtual Scrolling For Fast Rendering
+* Multiple Data Type Support
+* Data Validation
+* Excel like Formula Support
+* Excel like Cell Editor
+* Advance Data Filter
+* Lookup Column Support
+* Cell/Range Formatting Options
+* Capable of Handling Large Data
+* Full Keyboard Support
+* Highly Configurable
+* Freeze Scroll Pane
+* Merge/Unmerge Cell Range
+* Undo/Redo Support
+* Cut/ Copy/ Paste Support
+* Different Grid Display Modes 
+* Add/Remove Rows  on The Fly
+* Add/Remove/Resize/Show-hide Columns on The Fly
+* Insert Image, Video and Link In Cell
+* Maintain Data Changes
+* Rich API
 
-* Adaptive virtual scrolling (handle hundreds of thousands of rows with extreme responsiveness)
-* Extremely fast rendering speed
-* Supports jQuery UI Themes
-* Background post-rendering for richer cells
-* Configurable & customizable
-* Full keyboard navigation
-* Column resize/reorder/show/hide
-* Column autosizing & force-fit
-* Pluggable cell formatters & editors
-* Support for editing and creating new rows.
-* Grouping, filtering, custom aggregators, and more!
-* Advanced detached & multi-field editors with undo/redo support.
-* “GlobalEditorLock” to manage concurrent edits in cases where multiple Views on a page can edit the same data.
-* Support for [millions of rows](http://stackoverflow.com/a/2569488/1269037)
+### Demo & docs
+Find documentation and examples in [the wiki](https://github.com/hiteshagja/Hiteshagja_testing/wiki).
+
+### Browser Compatibility
+
+### Authors
+### Known Bugs
+### Licensing
+
